@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>Basico_Ejercicio1_AliasesUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="01a7e8933afd7c95fe894b0859308138" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="a28d72c70d35ae0bb1902a69e1328e2d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="d9abbeddac3831f7699cb6215e7eb95f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="2570fd55051c1d96ba767432604a279b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="cc589138c1eb115f78577925347cf6fe" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="e87be2157ff0c7452a462784102d0746" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="683479319daa1eb7eea38847c9066357" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="bf0d848ecc128c26013b32b05719b3ad" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="bd22e79781d0a934a9f0c9cada04a0a7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="ef3de11c81664ebcdf5bcd9d4f2a59b0" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="af0fd6155d9bd2c2631e81172080a141" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="f7693488f23341ce8f24714cb90408c5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="1bdd3cc0f30a479baefa3fa9717a431c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="91f59585f3d1d2373d25244e902c17fd" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="3f82bccdaed6e6d0e5ea3ad4f62f3dcf" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="6bed537526ced5c34661fb747f54118d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="afda0892d5c44afba23321f448ed20f5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="77ada910589d4f7047f7f3a93804f4a9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="9160539fa55db764d5209ec5b083c441" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="97c39b6db0cb36282b065ab26ae59462" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="2b2b282c2deda3501e7c7235524e4184" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="6ccddd5c00c29a601137e97985d5d4b3" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="a5a38fb9a2450f2bde1a896f7f37acbc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="ec54b050b50c986416358e4464c8bf09" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="53aed36d528454b20833f3603122153f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="d0fba00ff93f064d6e1cb546eea27209" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="01377926910c68217f85a28abe72c682" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="ce814fddddd607c776a3b9a6e0b90c27" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="53b1bd1b17b4de66926108a7dfdf143e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="fc0d46c3cf6fc6f7faace8fa13bde2b5" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="2eebfd3def044e747aa57952fc13c70d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="68099af806a871bc69c6e167f51f9755" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="77fdc7237cdc85ffc02c93f038c617d9" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="a5d73eed1f854026daade44a9a14c372" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="8404f6fc9b938f6a932ac832d349cf1c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="8259067d9d86650f6692737845c0a152" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="6d0a1ffaa951deed22c0c37a4c852e65" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="db01c3e045ff08e86a2859e0370fb67c" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="Basico_Ejercicio1_Aliases" guid="e3bf48c7802adf6f15ef4c4a95e8b15a" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>

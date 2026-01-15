@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basico_Ejercicio1_Aliases/1.0.0": {
+        "runtime": {
+          "Basico_Ejercicio1_Aliases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basico_Ejercicio1_Aliases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

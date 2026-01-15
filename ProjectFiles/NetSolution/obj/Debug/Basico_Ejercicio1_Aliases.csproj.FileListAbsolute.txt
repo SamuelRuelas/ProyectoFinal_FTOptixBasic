@@ -1,0 +1,12 @@
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\bin\Basico_Ejercicio1_Aliases.deps.json
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\bin\Basico_Ejercicio1_Aliases.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\bin\Basico_Ejercicio1_Aliases.pdb
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.csproj.AssemblyReference.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.AssemblyInfoInputs.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.AssemblyInfo.cs
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.csproj.CoreCompileInputs.cache
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\refint\Basico_Ejercicio1_Aliases.dll
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\Basico_Ejercicio1_Aliases.pdb
+C:\Users\sruel\OneDrive\Documents\Rockwell Automation\FactoryTalk Optix\Projects\Basico_Ejercicio1_Aliases\ProjectFiles\NetSolution\obj\Debug\ref\Basico_Ejercicio1_Aliases.dll
