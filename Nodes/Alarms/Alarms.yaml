@@ -1,0 +1,151 @@
+Name: Alarms
+Id: g=3293e7cd8de0bb06cc725e017a984470
+Type: AlarmsCategoryFolder
+Children:
+- Name: DigitalAlarm
+  Id: g=7058f2b15ba66bab757565c53cd47ce5
+  Type: OffNormalAlarmController
+  Children:
+  - Name: NormalStateValue
+    Id: g=4e052ff00f2007c90b75574329a9c1a0
+    Type: BaseDataVariableType
+    DataType: Double
+  - Name: InputValue
+    Id: g=e65eaedbf073cd9d01110f2333b10d02
+    Type: BaseDataVariableType
+    DataType: Double
+    Children:
+    - Name: DynamicLink
+      Id: g=b9f2682e1663cf8b902d6a23a146ac7b
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../Model/MyMotor1/Alarm"
+      Children:
+      - Name: Mode
+        Id: g=3d61dc4d0d9dfa65e044a89484820c6a
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+  - Name: LastEvent
+    Id: g=18fed56152de873d4865b958a53ed441
+    Type: BaseDataVariableType
+    DataType: BaseDataType
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+  - Class: Reference
+    Target: ns=13;i=81
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=82
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=83
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=130
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=135
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=132
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=146
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=148
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=150
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=152
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=154
+    Direction: Forward
+  - Name: Message
+    Id: g=3f1d0e7c8db19acb5105d1b73d874bc4
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Value: {"LocaleId":"en-US","Text":"Motor 1 Alarmed"}
+- Name: AnalogAlarm
+  Id: g=a70886577740cae38f7348944d13e083
+  Type: ExclusiveLevelAlarmController
+  Children:
+  - Name: InputValue
+    Id: g=9b1575b024d35ac6a433d9739b975075
+    Type: BaseDataVariableType
+    DataType: Double
+    Children:
+    - Name: DynamicLink
+      Id: g=ffb44fe663902e0d3270efacd77e947e
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "../../../Model/MyMotor1/Temperature@Value"
+      Children:
+      - Name: Mode
+        Id: g=8ca382885f3f4c5e7908e5816f2c2f4b
+        Type: BaseVariableType
+        DataType: DynamicLinkMode
+        Value: 2
+  - Name: LastEvent
+    Id: g=103b9a67611da157e907fb3dae5c26ab
+    Type: BaseDataVariableType
+    DataType: BaseDataType
+    ValueRank: OneDimension
+    ArrayDimensions: [0]
+  - Class: Reference
+    Target: ns=13;i=81
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=82
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=83
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=130
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=135
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=132
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=146
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=148
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=150
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=152
+    Direction: Forward
+  - Class: Reference
+    Target: ns=13;i=154
+    Direction: Forward
+  - Name: AutoConfirm
+    Id: g=b7f725c2c2f3e72be0eea07cf81a66bf
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: true
+  - Name: HighLimit
+    Id: g=d589f16d2acdeca1d85d90c0e18a308c
+    Type: BaseDataVariableType
+    DataType: Double
+    Value: 80.0
+  - Name: Message
+    Id: g=c016625ccee40e0182356b061a46afa1
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    Children:
+    - Name: HighStateMessage
+      Id: g=7d8df1390fc9a9ced2f59659249606c9
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      Value: {"LocaleId":"en-US","Text":"Temperature High"}

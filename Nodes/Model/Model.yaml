@@ -1,0 +1,65 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Types/Types.yaml
+- Name: MyMotor1
+  Id: g=71cced4fd04c0a1f1d28ea737ebbd83a
+  Type: MyMotor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+  - Name: Temperature
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 32
+    Children:
+    - Name: EngineeringUnits
+      Type: EUInformationType
+      DataType: EUInformation
+      Children:
+      - Name: UnitId
+        Type: BaseDataVariableType
+        DataType: Int32
+        Value: 4604232
+      - Name: DisplayName
+        Type: BaseDataVariableType
+        DataType: LocalizedText
+      - Name: Description
+        Type: BaseDataVariableType
+        DataType: LocalizedText
+  - Name: Alarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- Name: MyMotor2
+  Id: g=7f7ed0d2efbb04c07c4a4da6509429bc
+  Type: MyMotor
+  Children:
+  - Name: Speed
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+  - Name: Temperature
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 32
+    Children:
+    - Name: EngineeringUnits
+      Type: EUInformationType
+      DataType: EUInformation
+      Children:
+      - Name: UnitId
+        Type: BaseDataVariableType
+        DataType: Int32
+        Value: 4604232
+      - Name: DisplayName
+        Type: BaseDataVariableType
+        DataType: LocalizedText
+      - Name: Description
+        Type: BaseDataVariableType
+        DataType: LocalizedText
+  - Name: Alarm
+    Type: BaseDataVariableType
+    DataType: Boolean
+- File: Recipe/Recipe.yaml
